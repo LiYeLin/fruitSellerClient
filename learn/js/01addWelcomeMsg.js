@@ -18,7 +18,7 @@ if (!localStorage.getItem("name")) {
     setUserName();
 } else {
     let storedName = localStorage.getItem("name");
-    myHeading.textContent = "Mozilla 酷毙了，" + storedName;
+    headingElement.textContent = "Mozilla 酷毙了，" + storedName;
 }
 
 // 设置点击事件
