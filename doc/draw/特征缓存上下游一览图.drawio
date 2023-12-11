@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:05:17.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="E0TW80vkRHczz-2MnLw0" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T11:12:02.506Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BHX8Q4ro2bc-hpQS-qwg" version="22.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,11 +79,16 @@
         <mxCell id="sNo0vAnpL7UpWKBcOvOB-43" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="sNo0vAnpL7UpWKBcOvOB-8" vertex="1">
           <mxGeometry x="70" y="105" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sNo0vAnpL7UpWKBcOvOB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="sNo0vAnpL7UpWKBcOvOB-5" source="sNo0vAnpL7UpWKBcOvOB-43" target="sNo0vAnpL7UpWKBcOvOB-19" edge="1">
+        <mxCell id="sNo0vAnpL7UpWKBcOvOB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="sNo0vAnpL7UpWKBcOvOB-5" source="sNo0vAnpL7UpWKBcOvOB-43" target="sNo0vAnpL7UpWKBcOvOB-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sNo0vAnpL7UpWKBcOvOB-47" value="更新标签配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sNo0vAnpL7UpWKBcOvOB-45" vertex="1" connectable="0">
           <mxGeometry x="-0.1858" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0KvR51NiF9aWCD-mnjF-7" value="&lt;strike&gt;缓存最大分区信息，已废弃&lt;/strike&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sNo0vAnpL7UpWKBcOvOB-45">
+          <mxGeometry x="0.1083" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -95,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s0KvR51NiF9aWCD-mnjF-6" value="&lt;strike&gt;定时保存/读取ob内存状态 未使用&lt;/strike&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0KvR51NiF9aWCD-mnjF-5">
+        <mxCell id="s0KvR51NiF9aWCD-mnjF-6" value="&lt;strike&gt;定时保存/读取ob内存状态 已废弃&lt;/strike&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0KvR51NiF9aWCD-mnjF-5">
           <mxGeometry x="-0.4059" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
