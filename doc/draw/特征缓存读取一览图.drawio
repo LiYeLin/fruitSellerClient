@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T10:51:19.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kCkvTCNCZ0vNaKLKYlHP" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T11:10:14.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="d106T323r6TFRciCHzah" version="22.1.7" type="github">
   <diagram name="第 1 页" id="RpbkFDHF-_dFcN8u6Mnz">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,16 +52,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I0FjkfJMj4wii_VnlXVJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I0FjkfJMj4wii_VnlXVJ-1" source="I0FjkfJMj4wii_VnlXVJ-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="305" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="305" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="I0FjkfJMj4wii_VnlXVJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="I0FjkfJMj4wii_VnlXVJ-1" source="I0FjkfJMj4wii_VnlXVJ-33" target="I0FjkfJMj4wii_VnlXVJ-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I0FjkfJMj4wii_VnlXVJ-38" value="查询最大分区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0FjkfJMj4wii_VnlXVJ-37">
-          <mxGeometry x="-0.7714" y="1" relative="1" as="geometry">
+        <mxCell id="I0FjkfJMj4wii_VnlXVJ-42" value="查询最大分区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I0FjkfJMj4wii_VnlXVJ-41">
+          <mxGeometry x="-0.4576" y="27" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
