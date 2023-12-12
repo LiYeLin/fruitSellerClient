@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T08:00:55.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WQoQBBaK_Gps-qu7s0Za" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T08:03:34.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vSS1Apl3--b7Np0jXwpE" version="22.1.7" type="github">
   <diagram name="第 1 页" id="Ka0gu6g4MkIeOaY-7tnA">
     <mxGraphModel dx="1687" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,9 +54,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKt9iiCAsTmWtsSiSc3S-18" value="本地缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159.5" y="600" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xKt9iiCAsTmWtsSiSc3S-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xKt9iiCAsTmWtsSiSc3S-19" target="xKt9iiCAsTmWtsSiSc3S-18">
+        <mxCell id="xKt9iiCAsTmWtsSiSc3S-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xKt9iiCAsTmWtsSiSc3S-19" target="xKt9iiCAsTmWtsSiSc3S-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xKt9iiCAsTmWtsSiSc3S-19" value="查询标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,15 +76,7 @@
             <mxGeometry width="250" height="164" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="xKt9iiCAsTmWtsSiSc3S-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xKt9iiCAsTmWtsSiSc3S-21" target="xKt9iiCAsTmWtsSiSc3S-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xKt9iiCAsTmWtsSiSc3S-42" value="写" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xKt9iiCAsTmWtsSiSc3S-27">
-          <mxGeometry x="0.0379" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xKt9iiCAsTmWtsSiSc3S-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="xKt9iiCAsTmWtsSiSc3S-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xKt9iiCAsTmWtsSiSc3S-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="407" y="600" as="sourcePoint" />
             <mxPoint x="627" y="330" as="targetPoint" />
@@ -94,9 +86,6 @@
           <mxGeometry x="0.1271" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xKt9iiCAsTmWtsSiSc3S-21" value="采集写入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307" y="605" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xKt9iiCAsTmWtsSiSc3S-25" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="607" y="570" width="80" height="70" as="geometry" />
