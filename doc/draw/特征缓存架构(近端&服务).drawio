@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T06:43:56.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JWAQMg7gIP-3TL7ZQTNC" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T06:44:20.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UcULzJp53UuSaD48u_Dx" version="22.1.9" type="github">
   <diagram name="第 1 页" id="Ka0gu6g4MkIeOaY-7tnA">
     <mxGraphModel dx="2261" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,9 +7,9 @@
         <mxCell id="Q4t2JLVDIg3r-b49H8aY-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-150" y="60" width="917" height="640" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="接入特征近端包的应用" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" c4Application="caas等" id="xKt9iiCAsTmWtsSiSc3S-3">
+        <object placeholders="1" c4Name="接入特征近端包的应用" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" c4Application="caas、处置等" id="xKt9iiCAsTmWtsSiSc3S-3">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="Q4t2JLVDIg3r-b49H8aY-1" vertex="1">
-            <mxGeometry x="237" width="280" height="410" as="geometry" />
+            <mxGeometry x="249.5" width="280" height="410" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="xKt9iiCAsTmWtsSiSc3S-4" value="内部逻辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="Q4t2JLVDIg3r-b49H8aY-1" vertex="1">
